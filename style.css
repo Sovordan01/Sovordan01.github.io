@@ -1,0 +1,42 @@
+Header {
+    background-color: rgb(0, 0, 0);
+    height: 40px;
+}
+
+
+html{
+    background: url(https://i.pinimg.com/originals/d9/f7/9d/d9f79d9c4057bd0c8ff01f9d5dce61d0.jpg) no-repeat center center fixed;
+    background-size: cover;
+    -moz-background-size: 100%;
+    -webkit-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+    height: 100%;
+}
+
+
+body{
+    font-family: "Comic Sans MS", "Arial",sans-serif;
+    color: white;
+}
+
+.picture{
+    margin-top: 20px;
+}
+
+.BioInformation{
+    text-align: center;
+}
+.Contacts{
+    text-align: center;
+}
+
+footer{
+    background-color: #000000;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    margin: 0 0 -100px;
+}
